@@ -4,6 +4,7 @@ def polinomio(x,parameters):
   power=len(parameters-1)
   while power>0:
     
+    
   
 
 
